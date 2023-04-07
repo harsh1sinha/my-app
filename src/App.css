@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{  /*changes the colour of letter in div in app.js*/
+  color: red;
+}
